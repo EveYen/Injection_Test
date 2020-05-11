@@ -1,0 +1,5 @@
+
+*$py.class
+*.pyc
+unit_test/*
+testing_server/*
